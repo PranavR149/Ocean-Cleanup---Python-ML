@@ -1,0 +1,1 @@
+This project is based on Machine Learning and Python. This main aim of this project is to classify the cleanup types required, predicting the urgency of cleanup required and pinpointing the prevalent trash type present in a particular geographical location.
