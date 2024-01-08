@@ -1,1 +1,7 @@
-This project is based on Machine Learning and Python. This main aim of this project is to classify the cleanup types required, predicting the urgency of cleanup required and pinpointing the prevalent trash type present in a particular geographical location.
+# Project Description
+This project is based on Machine Learning and Python. The main aim of this project is to classify the cleanup types required, predict the urgency of cleanup required, and pinpoint the prevalent trash type present in a particular geographical location.
+
+It is a machine-learning project where diverse supervised machine-learning models like logistic regression, support vector machine (SVM), K-nearest neighbor (KNN), decision tree, and random forest are used for classification tasks. This project has three use cases. First is the multi-class classification of the cleanup type required based on the various types of debris and geographical location. Second, is the binary classification indicating the urgency of the cleanup based on the visitor count and trash level. The final use case was to predict the prevalent trash type, given a specific geographical coordinate. In each of the use cases, different machine learning models performed well and their performance was evaluated based on various evaluation metrics. All these three use cases have their importance and contribute towards sustainability. This project also aligns with the UN's sustainability goals 12 (responsible consumption and prediction) and 14 (Life below water).
+
+Skills: Python (Programming Language), Exploratory Data Analysis, Data Analysis, Microsoft Excel, Data-driven Decision Making, Machine Learning, Data Analytics
+ 
